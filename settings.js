@@ -1,4 +1,4 @@
-//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
+//▄︻デA̷L̷I̷-̷K̷I̷N̷G̷══━一 ◎◎◎ https://github.com/darkalphaxteam\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
@@ -17,7 +17,7 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
@@ -36,30 +36,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
+global.vcardowner = ['923252752761'] //ur owner number
 global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.ytname = "YT: TGM 𝒜𝐿𝐼-𝒦𝐼𝒩𝒢" //ur yt chanel name
+global.socialm = "GitHub: 𝔸𝕃𝕀-𝕂𝕀ℕ𝔾" //ur github or insta name
+global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur locationhttps://mail.google.com/mail/u/0/#inbox
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['923252752761']
+global.ownertag = '923252752761' //ur tag number
+global.botnumber = '923252752761' //Add your Bot Number For Log
+global.botname = '꧁༒☬𝓐𝓛𝓘-𝓚𝓘𝓝𝓖☬༒꧂' //ur bot name
+global.ig = "https://chat.whatsapp.com/KWCYn5zqsDl1NMhOk5JjUx" //your theme url which will be displayed on whatsapp
+global.myweb = "https://chat.whatsapp.com/KWCYn5zqsDl1NMhOk5JjUx" //ur website to be displayed
+global.sc = 'https://chat.whatsapp.com/KWCYn5zqsDl1NMhOk5JjUx' //script link
+global.linkz = 'https://chat.whatsapp.com/KWCYn5zqsDl1NMhOk5JjUx'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
+global.packname = "𝔸𝕃𝕀-𝕂𝕀ℕ𝔾" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.footer = "® ᴀʟɪ-ᴋɪɴɢ"
+global.aliveimg ="https://www.linkpicture.com/q/G_3.jpg"
+global.allmenuimg ="https://www.linkpicture.com/q/G_3.jpg"
+global.welcomeimg= "https://www.linkpicture.com/q/G_3.jpg"
+global.gbyeimg = "https://www.linkpicture.com/q/G_3.jpg"
 global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['923252752761'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
